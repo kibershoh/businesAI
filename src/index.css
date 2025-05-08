@@ -1,0 +1,9 @@
+ *{
+  margin: 0;
+  padding: 0;
+ box-sizing: border-box;
+ font-family: 'Jost';
+}
+body{
+    background:#F2F4F8;
+}
